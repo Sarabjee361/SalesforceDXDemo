@@ -1,0 +1,206 @@
+[
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547205644024,
+            "changeTime": 1547205644024,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547205644024,
+            "changeTime": 1547205644024,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547205644025,
+            "changeTime": 1547205644025,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547206876445,
+            "changeTime": 1547206876445,
+            "isWorkspace": false,
+            "contentHash": "f1a266424d3315a2788cff375ee07c50742427a4"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo",
+        {
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547206448616,
+            "changeTime": 1547206448616,
+            "contentHash": "5537f8693b708cca93f078b1039a865e8371cc16",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547206876455,
+            "changeTime": 1547206876455,
+            "contentHash": "b5c34b1b10048201e7c23f5684f3fcdb75c55fc4"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1547206876454,
+            "changeTime": 1547206876454,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1547206876446,
+            "changeTime": 1547206876446,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1547206876447,
+            "changeTime": 1547206876447,
+            "contentHash": "836d806f5b74cdc52c2ba71ff182e8b84fc3ed17"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1547206876452,
+            "changeTime": 1547206876452,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1547206876455,
+            "changeTime": 1547206876455,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTest.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1547206876454,
+            "changeTime": 1547206876454,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTestController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTestController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1547206876450,
+            "changeTime": 1547206876450,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTestHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTestHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1547206876451,
+            "changeTime": 1547206876451,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTestRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sarabjeet\\Documents\\salesforce devhub\\SalesforceDXDemo\\force-app\\main\\default\\aura\\myFirstSalesforceDXTest\\myFirstSalesforceDXTestRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1547206876453,
+            "changeTime": 1547206876453,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]
